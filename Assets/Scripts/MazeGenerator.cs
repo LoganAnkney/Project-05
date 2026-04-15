@@ -77,7 +77,7 @@ public class MazeGenerator : MonoBehaviour
 
         }
 
-        Vector2 current = new Vector2(0, 0);
+        Vector2 current = new Vector2(1, 1);
 
         unvisited.Remove(current);
 
