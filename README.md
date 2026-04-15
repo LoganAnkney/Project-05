@@ -1,4 +1,4 @@
-# Exercise-05c-LightsAndMaterials
+# Project-05 
 
 
 ## Implementation
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Logan Ankney
