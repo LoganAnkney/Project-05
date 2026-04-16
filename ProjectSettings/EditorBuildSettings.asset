@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Maze, Darkness.unity
     guid: cc044ab91ee42b845a43bfd43ee4e6d3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/End.unity
-    guid: 944d59c7cfee99d4abd1450ea3db16c2
+    guid: 2c1f857db8ecd724d84f3ce9ba2ae34e
   m_configObjects: {}
